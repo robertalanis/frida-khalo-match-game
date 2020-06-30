@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.App-header {
+  background-image: url(https://lh5.ggpht.com/E_DPgleOqR_78v7rxgOPvxhsBcybn6nQEsqZHxaUNO7jW7em5oPIydHV0SKE=s1200);
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-title{
+  background-color: rgba(0, 0, 0, 0.5);
+  color: whitesmoke;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+
