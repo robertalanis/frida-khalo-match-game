@@ -3,7 +3,7 @@ import { Card, CardImg, Container, Row, Col } from "reactstrap";
 import "./Image.css";
 
 const Image = (props) => (
-	<Col sm="4">
+	<Col xs="4">
 		<Card>
 			<CardImg
 				alt={props.title}
