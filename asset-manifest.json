@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/clicky-game/static/css/main.1ca01e42.chunk.css",
-    "main.js": "/clicky-game/static/js/main.bdfbee54.chunk.js",
-    "main.js.map": "/clicky-game/static/js/main.bdfbee54.chunk.js.map",
-    "runtime-main.js": "/clicky-game/static/js/runtime-main.16a5700b.js",
-    "runtime-main.js.map": "/clicky-game/static/js/runtime-main.16a5700b.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/clicky-game/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.99ae33a8.chunk.js": "/clicky-game/static/js/2.99ae33a8.chunk.js",
-    "static/js/2.99ae33a8.chunk.js.map": "/clicky-game/static/js/2.99ae33a8.chunk.js.map",
-    "index.html": "/clicky-game/index.html",
-    "precache-manifest.441f28d12db4288b65ab5fe5e732ca7e.js": "/clicky-game/precache-manifest.441f28d12db4288b65ab5fe5e732ca7e.js",
-    "service-worker.js": "/clicky-game/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/clicky-game/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.1ca01e42.chunk.css.map": "/clicky-game/static/css/main.1ca01e42.chunk.css.map",
-    "static/js/2.99ae33a8.chunk.js.LICENSE.txt": "/clicky-game/static/js/2.99ae33a8.chunk.js.LICENSE.txt"
+    "main.css": "/frida-khalo-click-game/static/css/main.1ca01e42.chunk.css",
+    "main.js": "/frida-khalo-click-game/static/js/main.2c6b68ba.chunk.js",
+    "main.js.map": "/frida-khalo-click-game/static/js/main.2c6b68ba.chunk.js.map",
+    "runtime-main.js": "/frida-khalo-click-game/static/js/runtime-main.7b1f6482.js",
+    "runtime-main.js.map": "/frida-khalo-click-game/static/js/runtime-main.7b1f6482.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/frida-khalo-click-game/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.99ae33a8.chunk.js": "/frida-khalo-click-game/static/js/2.99ae33a8.chunk.js",
+    "static/js/2.99ae33a8.chunk.js.map": "/frida-khalo-click-game/static/js/2.99ae33a8.chunk.js.map",
+    "index.html": "/frida-khalo-click-game/index.html",
+    "precache-manifest.a90dea2a031f810538316b8c3309a303.js": "/frida-khalo-click-game/precache-manifest.a90dea2a031f810538316b8c3309a303.js",
+    "service-worker.js": "/frida-khalo-click-game/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/frida-khalo-click-game/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1ca01e42.chunk.css.map": "/frida-khalo-click-game/static/css/main.1ca01e42.chunk.css.map",
+    "static/js/2.99ae33a8.chunk.js.LICENSE.txt": "/frida-khalo-click-game/static/js/2.99ae33a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.16a5700b.js",
+    "static/js/runtime-main.7b1f6482.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.99ae33a8.chunk.js",
     "static/css/main.1ca01e42.chunk.css",
-    "static/js/main.bdfbee54.chunk.js"
+    "static/js/main.2c6b68ba.chunk.js"
   ]
 }
