@@ -34,9 +34,9 @@ class App extends Component {
 		} else {
 			clickedCards.push(id);
 
-			if (clickedCards.length === 8) {
+			if (clickedCards.length === 9) {
 				this.setState({
-					score: 8,
+					score: 9,
 					status: "You Won! Click to play again!",
 					clickedCards: [],
 				});
@@ -68,7 +68,7 @@ class App extends Component {
 						</header>
 					</Col>
 					<Col md="6">
-						<Score score={this.state.score} goal={8} status={this.state.status} />
+						<Score score={this.state.score} goal={9} status={this.state.status} />
 						<Wrapper>
 							{this.state.paintings.map((painting) => (
 								<Image

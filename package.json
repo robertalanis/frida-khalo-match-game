@@ -1,8 +1,8 @@
 {
-  "name": "frida-khalo-game",
+  "name": "frida-khalo-match-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://robertalanis.github.io/frida-khalo-click-game",
+  "homepage": "http://robertalanis.github.io/frida-khalo-match-game",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
